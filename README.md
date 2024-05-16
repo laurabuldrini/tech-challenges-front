@@ -1,4 +1,4 @@
-# Tech Challenge - React Native
+# Tech Challenge - React
 
 Olá! Bem vindo ao Tech Challenge da Brasa!
 
